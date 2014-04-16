@@ -11,7 +11,7 @@
 	if($verify->verify('yourname@yourdomain.com')){
 		echo 'Valid email address';
 	}else{
-		echo 'Invalid Email Address';
+		echo 'Invalid il Address';
 	}
 	
 ?>
